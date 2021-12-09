@@ -28,4 +28,6 @@ nav li :hover{
 body
 {
 	background-color: black;
+	background-image: url('./gif.gif');
+	background-size: cover;
 }
